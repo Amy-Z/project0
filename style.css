@@ -1,0 +1,44 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+.container
+{
+display: flex;
+flex-wrap: wrap;
+}
+
+.container > div
+{
+background-color: #92a4af;
+font-size: 20px;
+margin: 10px;
+padding-top: 30px;
+padding-bottom: 30px;
+padding-left: 25px;
+width: 300px;
+height: 50;
+}
+
+.page
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.page > div
+{
+    background-color: #90AFC5;
+}
