@@ -42,3 +42,10 @@ height: 50;
 {
     background-color: #90AFC5;
 }
+
+welcome {
+    font-family: Courier;
+    text-align: center;
+    color: purple;
+}
+
