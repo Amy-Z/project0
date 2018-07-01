@@ -23,8 +23,8 @@ flex-wrap: wrap;
 .container > div
 {
 background-color: #92a4af;
-font-size: 20px;
-margin: 10px;
+font-size: 10px;
+margin: 5px;
 padding-top: 30px;
 padding-bottom: 30px;
 padding-left: 25px;
@@ -47,5 +47,18 @@ welcome {
     font-family: Courier;
     text-align: center;
     color: purple;
+}
+
+.row > div {
+    padding: 20px;
+    background-color: #C4DFE6;
+    border: 2px solid black;
+    color: black;
+    font-family: Courier;
+    height:100%;
+}
+
+h3, h4 {
+    text-align: center;
 }
 
