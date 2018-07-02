@@ -1,0 +1,24 @@
+$color: #662a48;
+
+body {
+    background-color: #e5fafa;
+}
+li {
+    color: $color;
+    font-size: 18px;
+    ol {
+        font-family: Helvetica;
+    }
+}
+
+.subtitle {
+    color: $color;
+    text-align: center;
+}
+
+.title {
+    @extend .subtitle;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+}

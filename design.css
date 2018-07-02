@@ -1,0 +1,19 @@
+body {
+  background-color: #e5fafa; }
+
+li {
+  color: #662a48;
+  font-size: 18px; }
+  li ol {
+    font-family: Helvetica; }
+
+.subtitle, .title {
+  color: #662a48;
+  text-align: center; }
+
+.title {
+  font-weight: bold;
+  font-style: italic;
+  text-decoration: underline; }
+
+/*# sourceMappingURL=design.css.map */
