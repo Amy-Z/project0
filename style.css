@@ -88,12 +88,6 @@ body {
     font-weight: bold;
 }
 
-#centred {
-    text-align: center;
-    color: #062F4F;
-    font-weight: bold;
-}
-
 ::selection {
     color: red;
     background-color: #ffe1fd;
@@ -105,21 +99,20 @@ h1, li::selection {
 
 #fact
 {
-font-size: 22px;
-}
-
-#interesting
-{
-font-weight: 20px;
+color: #18599a;
 }
 
 #course
 {
-font-weight: 18px;
+color: #187613;
+}
+
+#interesting
+{
+color: #a32319;
 }
 
 .name
 {
 font-weight: bold;
-font-size: 20px;
 }
