@@ -75,7 +75,10 @@ body {
         display: none;
     }
     li {
-        font-size: 6px;
+        font-size: 9px;
+    }
+    a {
+        font-size: 7px;
     }
 }
 
